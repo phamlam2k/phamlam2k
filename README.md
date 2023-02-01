@@ -36,5 +36,5 @@
 
 ## Test github
 <p align="center"> 
-  ![](https://github.com/phamlam2k/snk/raw/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/phamlam2k/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>

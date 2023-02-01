@@ -12,7 +12,8 @@
 - 💬 Ask me about **react, java**
 
 - 📫 How to reach me **mailam1309@gmail.com**
-
+<br></br>
+<p></p>
 ## 🥰 Connect with me
 <p align="left">
 <a href="https://fb.com/phamlam2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamlam2k" height="30" width="40" /></a>
@@ -21,7 +22,6 @@
 </p>
 <br></br>
 <p></p>
-
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 

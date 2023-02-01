@@ -31,8 +31,5 @@
 | ------------- | ------------- |
 
 ## 💳 Github Profile Summary Card
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamlam2k&theme=vue"/>
-</p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamlam2k&" alt="phamlam2k" /></p>
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamlam2k&theme=vue" alt="flexbox" />  | <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamlam2k&" alt="phamlam2k" alt="flexbox" /> |
+| ------------- | ------------- |

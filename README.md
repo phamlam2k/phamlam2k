@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://fb.com/phamlam2k" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="phamlam2k-facebook"/></a>
 <a href="https://instagram.com/_pnml_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_pnml_" /></a>
-<a href="https://discord.gg/https://discord.gg/8rqVPfK7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8rqVPfK7" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/8rqVPfK7" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/8rqVPfK7"  /></a>
 </p>
 <br></br>
 

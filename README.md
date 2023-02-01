@@ -34,7 +34,7 @@
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamlam2k&theme=vue" alt="flexbox" />  | <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamlam2k&" alt="phamlam2k" alt="flexbox" /> |
 | ------------- | ------------- |
 
-## Test github
+## 🐍 Snake Commits
 <p align="center"> 
   <img src="https://github.com/phamlam2k/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>

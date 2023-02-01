@@ -35,4 +35,6 @@
 | ------------- | ------------- |
 
 ## Test github
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center"> 
+  ![](https://github.com/phamlam2k/snk/raw/output/github-contribution-grid-snake.svg)
+</p>
